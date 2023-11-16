@@ -1,8 +1,8 @@
-# basic-k8-deployment
+# k8-deployment
 
 ## Description
 
-basic-k8-deployment contains kubernetes configuration files to deploy pods and services for a simple web application with a database on a local cluster
+k8-deployment contains kubernetes configuration files to deploy pods and services for a simple web application with a database on a local cluster
 
 ## Prerequisites
 
